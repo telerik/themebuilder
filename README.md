@@ -1,6 +1,6 @@
 # ThemeBuilder
 
-[ThemeBuilder](https://themebuilderapp.telerik.com/) is a versatile tool that helps you create visual styles and apply them to the [Telerik and Kendo UI web components](#supported-telerik-and-kendo-ui-web-components). The tool has two tiers: pro and free.
+[ThemeBuilder](https://themebuilderapp.telerik.com/) is a versatile tool that helps you create visual styles and apply them to the [Telerik and Kendo UI web components](https://docs.telerik.com/themebuilder/introduction#supported-telerik-and-kendo-ui-web-components). The tool has two tiers: pro and free.
 
 To help you achieve a unique appearance for your apps, ThemeBuilder offers an intuitive UI where you can experiment with colors and properties like border-radius and typography. In ThemeBuilder, you can visualize the styles that you create and see how they change the looks of the UI components. With the ThemeBuilder advanced customization, you can change virtually every appearance-related property of the UI components until you achieve the desired style.
 
